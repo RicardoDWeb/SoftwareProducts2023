@@ -1,4 +1,4 @@
-# sSoftwareProducts2023
+# SoftwareProducts2023
 # Trata-se de um simples cadastro de cliente, desenvolvido em Python, utilizando Django
 # No diretório meuprojeto\meuprojeto excutar a instrução:
 # python manage.py runserver
